@@ -23,14 +23,14 @@ Desarrollo proyectos técnicos con datos enriquecidos y visualizaciones táctica
 
 ## 🧠 Otros Proyectos Analíticos
 
-### 📊 [Business Analytics Multisectorial](https://github.com/tu-usuario/business-analytics)
+### 📊 [Business Analytics Multisectorial]
 
 - Multicanalidad (Google Ads, LinkedIn Ads)
 - CRO ecommerce premium y retail
 - Scoring y clustering en fintech
 - Retención, churn y segmentación en SaaS
 
-### 🧠 [Predicción de Asistencia a Eventos Deportivos](https://github.com/tu-usuario/attendance-prediction)
+### 🧠 [Predicción de Asistencia a Eventos Deportivos]
 
 - Modelos Random Forest para estimar asistencia a partidos
 - Variables: sesiones, canal, productos, tasas de conversión
