@@ -8,7 +8,7 @@ Desde el rendimiento deportivo hasta la predicción de ingresos, aplico un enfoq
 
 ---
 
-## ⚽ Analítica Deportiva (Fútbol) – Mi foco principal
+## ⚽ Analítica Deportiva 
 
 Mi campo de especialización más sólido es el análisis avanzado del fútbol profesional. 
 Desarrollo proyectos técnicos con datos enriquecidos y visualizaciones tácticas de alto impacto:
@@ -23,14 +23,14 @@ Desarrollo proyectos técnicos con datos enriquecidos y visualizaciones táctica
 
 ## 🧠 Otros Proyectos Analíticos
 
-### 📊 [Business Analytics Multisectorial]
+### 📊 Business Analytics Multisectorial
 
 - Multicanalidad (Google Ads, LinkedIn Ads)
 - CRO ecommerce premium y retail
 - Scoring y clustering en fintech
 - Retención, churn y segmentación en SaaS
 
-### 🧠 [Predicción de Asistencia a Eventos Deportivos]
+### 🧠 Predicción de Asistencia a Eventos Deportivos
 
 - Modelos Random Forest para estimar asistencia a partidos
 - Variables: sesiones, canal, productos, tasas de conversión
