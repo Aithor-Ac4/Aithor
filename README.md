@@ -1,18 +1,19 @@
 # 👋 Hola, soy Aithor
 
-### 🎯 Consultor de Datos | Especialista en Analítica Avanzada, Fútbol, Visualización y Automatización
+### 🎯 Consultor de Datos | Especialista en Fútbol, Analítica Avanzada, Visualización y Automatización
 
-Soy un consultor de datos apasionado por el **fútbol** y la **analítica avanzada aplicada al negocio digital**. Me especializo en construir soluciones de datos que transforman métricas complejas en decisiones accionables. Desde el rendimiento deportivo hasta la predicción de ingresos, aplico un enfoque riguroso y visual en cada proyecto.
+Soy un consultor de datos apasionado por el **Fútbol** y la **Analítica avanzada aplicada al negocio digital**. 
+Me especializo en construir soluciones de datos que transforman métricas complejas en decisiones accionables. 
+Desde el rendimiento deportivo hasta la predicción de ingresos, aplico un enfoque riguroso y visual en cada proyecto.
 
 ---
 
 ## ⚽ Analítica Deportiva (Fútbol) – Mi foco principal
 
-Mi campo de especialización más sólido es el análisis avanzado del fútbol profesional. Desarrollo proyectos técnicos con datos enriquecidos y visualizaciones tácticas de alto impacto:
+Mi campo de especialización más sólido es el análisis avanzado del fútbol profesional. 
+Desarrollo proyectos técnicos con datos enriquecidos y visualizaciones tácticas de alto impacto:
 
-- Análisis de rendimiento con datos de **WhoScored, FotMob y Opta**
-- Métricas: `xG`, `xGoT`, `Chains`, `Carries`, `Pass Networks`
-- Mapas de tiro detallados y visualización personalizada (`mplsoccer`)
+- Análisis de rendimiento
 - Informes tipo **scouting UEFA**, con visuales para jugadoras y clubes
 - Integración de Python + Matplotlib + estilos personalizados UEFA/FIFA
 
@@ -56,14 +57,6 @@ Mi campo de especialización más sólido es el análisis avanzado del fútbol p
 - 🎯 **Precisión técnica** y metodología reproducible
 - 🧠 **Narrativa visual profesional**, clara y diferenciada
 - ⚙️ **Automatización de procesos** en entornos de negocio
-
----
-
-## 📬 Contacto
-
-- LinkedIn: [linkedin.com/in/tu-usuario](https://linkedin.com/in/tu-usuario)
-- Email: tuemail@dominio.com
-- Portfolio visual (opcional): [tuportfolio.com](https://tuportfolio.com)
 
 ---
 
